@@ -3,10 +3,12 @@ Simple program using different regression models to find out which model predict
 
 ## Running the program
 ### Install dependencies
+```bash
 pip install -r requirements.txt
-
+```
 ### Run main function
+```bash
 python main.py
-
+```
 
 
