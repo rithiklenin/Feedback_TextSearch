@@ -1,2 +1,12 @@
 # House Price Prediction
-Used different regression models to find out which can help predict the best 
+Simple program using different regression models to find out which model predicts best. The project was done on kaggle using their dataset and their GPU to train and was converted to python files after completion.
+
+## Running the program
+### Install dependencies
+pip install -r requirements.txt
+
+### Run main function
+python main.py
+
+
+
